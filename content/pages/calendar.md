@@ -8,32 +8,345 @@ TG = Prof. Ted Gibson
 PS = Prof. Pawan Sinha  
 JT = Prof. Josh Tenenbaum
 
-| SES # | TOPICS | LECTURERS |
-| --- | --- | --- |
-| 1 | Introduction | TG/PS/JT |
-| 2 | History of Cognitive Science | JT |
-| 3 | Early and Mid-level Vision | PS |
-| 4 | Mid-level Vision | PS |
-| 5 | High-level Vision: Basic Issues | PS |
-| 6 | High-level Vision: Models | PS |
-| 7 | Visual Development | PS |
-| 8 | Abnormal Visual Development | PS |
-| 9 | Visual Attention and Visual Awareness | PS |
-| 10 | Visual Memory and Visual Imagery | PS |
-| 11 | Cognitive Architectures and Long-term Memory | JT |
-| 12 | Generalization and Similarity | JT |
-| &nbsp; | Exam 1 | &nbsp; |
-| 13 | Concepts, Categories, and Theories | JT |
-| 14 | Probabilistic and Conditional Reasoning and Decision Making | JT |
-| 15 | Probabilistic and Conditional Reasoning and Decision Making (cont.) | JT |
-| 16 | Moral Judgment and Social Cognition | JT |
-| 17 | Cognitive Development | JT |
-| &nbsp; | Exam 2 | &nbsp; |
-| 18 | Short-Term/Working Memory | TG |
-| 19 | Language I: Syntax | TG |
-| 20 | Language II: Language Processing 1 | TG |
-| 21 | Language III: Language Processing 2 | TG |
-| 22 | Language IV: Language Acquisition | TG |
-| 23 | Language V: Speech and Speech Acquisition | TG |
-| 24 | Language and Thought | TG |
-| &nbsp; | Exam 3 |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURERS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+TG/PS/JT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+History of Cognitive Science
+{{< tdclose >}}
+{{< tdopen >}}
+JT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Early and Mid-level Vision
+{{< tdclose >}}
+{{< tdopen >}}
+PS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-level Vision
+{{< tdclose >}}
+{{< tdopen >}}
+PS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+High-level Vision: Basic Issues
+{{< tdclose >}}
+{{< tdopen >}}
+PS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+High-level Vision: Models
+{{< tdclose >}}
+{{< tdopen >}}
+PS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Visual Development
+{{< tdclose >}}
+{{< tdopen >}}
+PS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Abnormal Visual Development
+{{< tdclose >}}
+{{< tdopen >}}
+PS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Visual Attention and Visual Awareness
+{{< tdclose >}}
+{{< tdopen >}}
+PS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Visual Memory and Visual Imagery
+{{< tdclose >}}
+{{< tdopen >}}
+PS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Cognitive Architectures and Long-term Memory
+{{< tdclose >}}
+{{< tdopen >}}
+JT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Generalization and Similarity
+{{< tdclose >}}
+{{< tdopen >}}
+JT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Concepts, Categories, and Theories
+{{< tdclose >}}
+{{< tdopen >}}
+JT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Probabilistic and Conditional Reasoning and Decision Making
+{{< tdclose >}}
+{{< tdopen >}}
+JT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Probabilistic and Conditional Reasoning and Decision Making (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+JT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Moral Judgment and Social Cognition
+{{< tdclose >}}
+{{< tdopen >}}
+JT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Cognitive Development
+{{< tdclose >}}
+{{< tdopen >}}
+JT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Short-Term/Working Memory
+{{< tdclose >}}
+{{< tdopen >}}
+TG
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Language I: Syntax
+{{< tdclose >}}
+{{< tdopen >}}
+TG
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Language II: Language Processing 1
+{{< tdclose >}}
+{{< tdopen >}}
+TG
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Language III: Language Processing 2
+{{< tdclose >}}
+{{< tdopen >}}
+TG
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Language IV: Language Acquisition
+{{< tdclose >}}
+{{< tdopen >}}
+TG
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Language V: Speech and Speech Acquisition
+{{< tdclose >}}
+{{< tdopen >}}
+TG
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Language and Thought
+{{< tdclose >}}
+{{< tdopen >}}
+TG
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
